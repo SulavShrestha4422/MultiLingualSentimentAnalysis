@@ -92,6 +92,3 @@ The app downloads transformer models on first run (~500MB). Ensure you have:
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first.
-
-## License
-[Your chosen license - e.g., MIT]
