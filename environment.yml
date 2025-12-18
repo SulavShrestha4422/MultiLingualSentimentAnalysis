@@ -1,0 +1,21 @@
+name: multilingual-sentiment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - streamlit
+    - pandas
+    - altair
+    - wordcloud
+    - matplotlib
+    - praw
+    - numpy
+    - torch
+    - langdetect
+    - transformers
+    - nltk
+    - pyarrow
+    - fastparquet
