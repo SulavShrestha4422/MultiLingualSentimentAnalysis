@@ -124,4 +124,4 @@ dependencies:
       - watchdog==6.0.0
       - websocket-client==1.9.0
       - wordcloud==1.9.4
-prefix: C:\Users\Sulav\anaconda3\envs\multi-nlp
+
