@@ -50,7 +50,7 @@ REDDIT_USER_AGENT = "your_app_name"
 conda activate multilingual-sentiment
 
 # Run the Streamlit app
-streamlit run your_app_name.py
+streamlit run dashboard.py
 ```
 
 
